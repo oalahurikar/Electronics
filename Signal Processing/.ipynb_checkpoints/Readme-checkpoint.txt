@@ -1,0 +1,1 @@
+In STARS check out which filter type (FIR or IIR ) using and also check what stage is digital and analog filters
